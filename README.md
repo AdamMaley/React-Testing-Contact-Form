@@ -9,7 +9,7 @@
 - explain what automated testing is and its importance
 - use react-testing-library for testing react components
 - use react-testing-library to test user interactions with fireEvent
-
+<!-- Initial Commit -->
 ## Introduction
 
 In this challenge, you will be writing tests for a contact form that has been built with React.
